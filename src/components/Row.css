@@ -1,0 +1,16 @@
+table {
+    margin: 20px;
+    border: 1px solid #000;
+}
+.table_wrapper {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin-top: 100px;
+}
+td {
+    text-align: center;
+}
+tr {
+    border-bottom: 1px solid #000;
+}

@@ -1,0 +1,5 @@
+input#file-upload-button {
+    background-color: #eee;
+    border: 1px solid #eef;
+    cursor: pointer;
+} 

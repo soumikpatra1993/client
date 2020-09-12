@@ -1,0 +1,7 @@
+.Tab_filters {
+    display: flex;
+    justify-content: space-around;
+}
+span {
+    margin: 10px;
+}
